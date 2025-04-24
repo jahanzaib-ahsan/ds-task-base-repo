@@ -9,6 +9,8 @@ def display_menu():
     print("2. Queue Operations")
     print("3. Dictionary Operations")
     print("4. Exit")
+def display_menuadd():
+    print("\nData Structure Task App modified")
 
 def stack_operations():
     stack = []
